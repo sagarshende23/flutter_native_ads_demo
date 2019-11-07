@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Github-Sagar Shende-black.svg?style=for-the-badge">
   </a>
   <a href="https://github.com/sagarshende23/flutter_native_ads_demo/stargazers">
-    <img src="https://img.shields.io/github/stars/sagarshende23/reflectly-like-loginpage-flutter.svg?style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/sagarshende23/flutter_native_ads_demo.svg?style=for-the-badge">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.alltechsavvy.calculator">
     <img src="https://img.shields.io/badge/Google-PlayStore-green.svg?style=for-the-badge">
