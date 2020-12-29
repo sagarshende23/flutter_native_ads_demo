@@ -17,7 +17,7 @@
  
 </p>
 
-# 💻Written Tutorial
+#💻 Written Tutorial
 Flutter Native Ads :-  https://alltechsavvy.com/splash-screen-in-flutter-app/
 
 [![Youtube](https://raw.githubusercontent.com/sagarshende23/shared_preference_flutter/master/Subscribe.png)](https://www.youtube.com/channel/UCEW4YMELtVeLjcpAzevNabg?sub_confirmation=1)
@@ -49,11 +49,28 @@ If you liked the app give this repo a ⭐️
 ## 🐛 Bugs/Requests #
 If you encounter any problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
 
+## 🎉 Social Media Links
+
+
+[<img align="center" alt="sagarshende | Twitter" width="40" src="https://image.flaticon.com/icons/svg/174/174876.svg" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsagarshende95&screen_name=SagarShende95)&ensp;Twitter: [@sagarshende95](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsagarshende95&screen_name=SagarShende95)
+
+[<img align="center" alt="sagarshende | LinkedIn" width="40" src="https://image.flaticon.com/icons/svg/174/174857.svg" />](https://linkedin.com/in/sagarshende "Linkedin Sagar Shende")&ensp;Linkedin: [@SagarShende](https://linkedin.com/in/sagarshende "Linkedin Sagar Shende")
+
+[<img align="center" alt="SagarShende | Medium" width="40" src="https://image.flaticon.com/icons/svg/174/174858.svg" />](https://medium.com/@SagarShende "Medium Sagar Shende")&ensp;Medium: [@SagarShende](https://medium.com/@SagarShende "Medium Sagar Shende")
+
+[<img align="center" alt="AllTechSavvy | Medium" width="50" src="https://image.flaticon.com/icons/svg/733/733590.svg" />](https://www.youtube.com/alltechsavvy "YouTube AllTechSavvy")&ensp;YouTube:  [@AllTechSavvy](https://www.youtube.com/alltechsavvy "AllTechSavvy AllTechSavvy")
+
+[<img align="center" alt="SagarShende | Medium" width="40" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" />](https://www.instagram.com/sagarshende95 "Instagram Sagar Shende")&ensp;Instagram: [@SagarShende](https://www.instagram.com/sagarshende95/ "Medium Sagar Shende")
+
+
+
 ## 💰 Donation
 
 <img width="400" alt="inceptive-donate_artboard_2_2x_2x" src="https://user-images.githubusercontent.com/43273993/64881998-ca9a2f80-d679-11e9-98ec-e4f0d5470dbd.png">
 
 If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement! ^^ You can also scan the qr code below or Donate to this project, donation to Author.
+
+
 
 <img src="https://github.com/sagarshende23/Simple_calculator_flutter/blob/master/Donation%20Page.jpg">
 
